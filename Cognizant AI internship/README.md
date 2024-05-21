@@ -1,1 +1,1 @@
-
+Hi, my name is Surya Maniyan. I am a jr. Data Scientist. Here I have completed Exploratory Data Analysis in my fist data science project Gala Groceries supply chain issue. Groceries are highly perishable items. If you overstock, you are wasting money on excessive storage and waste, but if you understock, then you risk losing customers. They want to know how to better stock the items that they sell. Here are my findings and recommendations,
